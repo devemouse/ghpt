@@ -1,6 +1,24 @@
 body {
-   background-color:#008000;
-   margin-left:auto;
-   margin-right:auto;
-   width:60%;
+   background-color:#009000;
+   margin:auto;
+   width:670px;
 }
+p.date {
+   text-align:right;
+}
+div.container {
+   margin:auto;
+   background-color:#007000;
+}
+
+.desktop{
+  padding: 10px 10px 10px 10px;
+  background: #007000;
+  margin-top: -10px;
+  margin-left: -10px;
+  color: #BBBBBB;
+  border: 1px solid #007000;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}
+
